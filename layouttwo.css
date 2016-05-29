@@ -1,0 +1,41 @@
+
+
+.blue {
+background-color: blue;
+border: 5px solid white;
+height: 40px;
+
+}
+
+.green {
+background-color: green;
+border: 5px solid white;
+height: 200px;
+
+}
+
+.orange {
+background-color: orange;
+border: 5px solid white;
+height: 120px;
+
+}
+
+.grey {
+background-color: grey;
+border: 5px solid white;
+height: 80px;
+
+}
+
+.purple {
+    background-color: purple;
+    height: 80px;
+}
+
+.maroon {
+    background-color: maroon;
+    height: 100%;
+}
+
+
